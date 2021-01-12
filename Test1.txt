@@ -3,7 +3,6 @@ banana
 mango
 orange
 pineaaple
-papaya
-cheery
+
 
 
