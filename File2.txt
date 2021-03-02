@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to Devops Training
 Good morning All.....
 MAnisha
@@ -6,3 +7,13 @@ Kiran
 Shreya
 Sachin
 Vishal
+=======
+Arvind
+Manisha
+Sneha
+Swati
+Ankita
+Sachin
+Santosh
+Kiran
+>>>>>>> 19b6bc14f9a0f180d3942974dca95cfd5da1aeca

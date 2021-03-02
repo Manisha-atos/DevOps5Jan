@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 Welcome to Devops Training
 Good morning All.....
 Git
 GitHub
 maven
+=======
+Arvind
+
+>>>>>>> 19b6bc14f9a0f180d3942974dca95cfd5da1aeca
+
+----New Changes-----
+
+A
+b
+C
+D
+E
