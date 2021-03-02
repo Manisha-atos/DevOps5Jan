@@ -1,5 +1,8 @@
 Welcome to Devops Training
 Good morning All.....
-Git
-GitHub
-maven
+MAnisha
+Santosh
+Kiran
+Shreya
+Sachin
+Vishal
